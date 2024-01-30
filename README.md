@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 9
 
-I'm learning data science bootcamp. There are 10 sprints in the program.
+I am currently enrolled in DataRockie's 4-Month Intensive Data Science Bootcamp (link: https://datarockie.com/data-science-bootcamp/), which I expect to complete by February 2024. The program consists of 10 sprints.
 
 ## First part of the program
   - Intro to data science
