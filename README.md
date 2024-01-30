@@ -18,4 +18,4 @@ I am currently enrolled in DataRockie's 4-Month Intensive Data Science Bootcamp 
   - Essentail Python for Data Analyst
   - Dashboard with Looker Studio
 
-Contact: kanyapatt.mekvi@gmail.com
+Contact: kanyapat.mekvi@gmail.com
